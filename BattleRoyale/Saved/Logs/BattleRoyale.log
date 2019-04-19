@@ -1277,3 +1277,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.19-04.40.46:498][756]BlueprintLog: New page: BP_BattleGS 컴파일
 [2019.04.19-04.40.47:112][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/Battle/BP_BattleGS" FILE="D:/UnrealProjects/UnrealPractice/BattleRoyale/Content/GameModes/Battle/BP_BattleGS.uasset" SILENT=true
 [2019.04.19-04.40.47:174][787]LogSavePackage: Moving 'D:/UnrealProjects/UnrealPractice/BattleRoyale/Saved/BP_BattleGS9C61A1CB4D033AA42A719D8E101C14D6.tmp' to 'D:/UnrealProjects/UnrealPractice/BattleRoyale/Content/GameModes/Battle/BP_BattleGS.uasset'
+[2019.04.19-04.42.43:621][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/Battle/BP_BattleGS" FILE="D:/UnrealProjects/UnrealPractice/BattleRoyale/Content/GameModes/Battle/BP_BattleGS.uasset" SILENT=true
+[2019.04.19-04.42.43:680][297]LogSavePackage: Moving 'D:/UnrealProjects/UnrealPractice/BattleRoyale/Saved/BP_BattleGS376785AA4C6AF8139F4D84A47C50DFB8.tmp' to 'D:/UnrealProjects/UnrealPractice/BattleRoyale/Content/GameModes/Battle/BP_BattleGS.uasset'
+[2019.04.19-04.42.46:915][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jungle/Jungle" FILE="D:/UnrealProjects/UnrealPractice/BattleRoyale/Content/Maps/Jungle/Jungle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.19-04.42.58:997][577]LogSavePackage: Moving 'D:/UnrealProjects/UnrealPractice/BattleRoyale/Saved/Jungle4295DDA94AC20096D6E4F7A1E5C2A6D9.tmp' to 'D:/UnrealProjects/UnrealPractice/BattleRoyale/Content/Maps/Jungle/Jungle.umap'
